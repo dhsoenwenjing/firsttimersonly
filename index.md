@@ -5,7 +5,7 @@ layout: index
 Contributing to open source for the first time can be scary and a little overwhelming. Perhaps you're a [Code Newbie](https://www.codenewbie.org) or maybe you've been coding for a while but haven't found a project you felt comfortable contributing to.
 
 
-### You can do it! Here's how.
+### You can do it! Here's how to do it.
 If you have never contributed to an open source project before and you're just getting started, consider exploring these resources.
 
 * [First contributions](https://github.com/multunus/first-contributions) is a hands-on tutorial that walks you through contributions workflow on github. When you complete the tutorial, you have made a contribution to the same project.
